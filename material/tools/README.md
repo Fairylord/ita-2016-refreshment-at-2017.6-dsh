@@ -3,6 +3,7 @@
 ## Git
 1. Git-extension: \\HUANGYE-3-W7\work_soft\GIT\GitExtensions-2.49.03-SetupComplete.msi
 2. Github (把每个人添加进去这个Repo的contributor里)
+3. Chrome的Github通知插件[Notifier for GitHub](https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn)
 
 ## Python
 使用python3版本，你可以自己下载，也可以从下面拷贝
