@@ -29,3 +29,8 @@
 1. [Keras (一个封装了tensorflow和Caffe的python库，可以在windows上运行)](http://keras-cn.readthedocs.io/en/latest/blog/cnn_see_world/ "Keras (一个封装了tensorflow和Caffe的python库，可以在windows上运行)")
 2. [Tensorflow(Google深度学习框架)](https://github.com/tensorflow/tensorflow "Tensorflow(Google深度学习框架)")
 
+## 知乎上的回答
+1. [在数据分析、挖掘方面，有哪些好书值得推荐？](https://www.zhihu.com/question/20757000 "在数据分析、挖掘方面，有哪些好书值得推荐？")
+2. [Python 的练手项目有哪些值得推荐？](https://www.zhihu.com/question/29372574 "Python 的练手项目有哪些值得推荐？")
+3. [怎么用最短时间高效而踏实地学习 Python？](https://www.zhihu.com/question/28530832 "怎么用最短时间高效而踏实地学习 Python？")
+4. [普通程序员如何向人工智能靠拢？](https://www.zhihu.com/question/51039416 "普通程序员如何向人工智能靠拢？")
